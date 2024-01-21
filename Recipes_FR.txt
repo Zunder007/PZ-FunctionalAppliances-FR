@@ -1,0 +1,35 @@
+Recipes_FR = {
+	Recipe_Make_Bucket_of_Popcorn = "Préparer un seau de pop-corn",
+	Recipe_Take_Popcorn_from_Bucket = "Prendre du pop-corn du seau",
+	Recipe_Make_Bucket_of_Buttered_Popcorn = "Préparer un seau de pop-corn beurré",
+	Recipe_Take_Buttered_Popcorn_from_Bucket = "Prendre du pop-corn beurré du seau",
+	Recipe_Butter_Popcorn = "Beurrer le pop-corn",
+	Recipe_Empty_Bucket_of_Popcorn = "Vider le seau de pop-corn",
+
+	Recipe_Craft_Empty_Keg = "Fabriquer un fût vide",
+	Recipe_Convert_Empty_Beer_Bottle_From_MoreBrews = "Convertir une bouteille de bière vide de MoreBrews",
+	Recipe_Craft_Home_Brew_Keg = "Fabriquer un fût de bière artisanale",
+
+	Recipe_Craft_Empty_CO2_Tank = "Fabriquer un réservoir de CO2 vide",
+	Recipe_Refill_CO2_Tank = "Recharger le réservoir de CO2",
+	Recipe_Craft_Empty_Soda_Syrup_Box = "Fabriquer une boîte de sirop de soda vide",
+	Recipe_Craft_Mixed_Berries_Flavored_Soda_Syrup = "Préparer du sirop de soda aromatisé aux baies mélangées",
+
+	Recipe_Potato_Skins = "Peler les pommes de terre",
+	Recipe_Potato_Wedges = "Couper en morceaux les pommes de terre",
+	Recipe_Blooming_Onion = "Éplucher l'oignon",
+	Recipe_Batter_Blooming_Onion = "Paner l'oignon",
+	Recipe_Batter_Chicken = "Paner le poulet",
+	Recipe_Chicken_Fillet = "Préparer un filet de poulet",
+	Recipe_Batter_Chicken_Fillet = "Paner le filet de poulet",
+	Recipe_Batter_Cheese_Sticks = "Paner des bâtonnets de fromage",
+	Recipe_Fry_Battered_Cheese_Sticks = "Faire frire des bâtonnets de fromage panés",
+	Recipe_Fry_Battered_Chicken_Fillet = "Faire frire le filet de poulet pané",
+	Recipe_Fry_Battered_Chicken = "Faire frire le poulet pané",
+	Recipe_Fry_Battered_Blooming_Onion = "Faire frire l'oignon pané",
+	Recipe_Fry_FluffnTough's_Pan_Fried_Potato_Skins = "Faire frire les pommes de terre poêlées façon FluffnTough",
+	Recipe_Fry_FluffnTough's_Pan_Fried_Potato_Wedges = "Faire frire les morceaux de pommes de terre façon FluffnTough",
+
+	Recipe_FluffnTough's_Pan_Fried_Potato_Skins = "Faire frire les pommes de terre poêlées façon FluffnTough",
+	Recipe_FluffnTough's_Pan_Fried_Potato_Wedges = "Faire frire les morceaux de pommes de terre façon FluffnTough",
+}
