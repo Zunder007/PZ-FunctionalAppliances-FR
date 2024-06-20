@@ -32,4 +32,7 @@ Recipes_FR = {
 
 	Recipe_FluffnTough's_Pan_Fried_Potato_Skins = "Faire frire les pommes de terre poêlées façon FluffnTough",
 	Recipe_FluffnTough's_Pan_Fried_Potato_Wedges = "Faire frire les morceaux de pommes de terre façon FluffnTough",
+
+	Convert Paper Napkins to Functional Appliances Paper Napkins = "Convertir des serviettes en papier en serviettes en papier pour appareils fonctionnels",
+	Wet Paper Napkins = "Serviettes en papier mouillées",
 }
