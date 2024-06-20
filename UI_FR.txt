@@ -4,6 +4,7 @@ UI_FR = {
 	UI_FunctionalAppliances_sayneedstobeturnedon = "Cela doit être activé en premier.",
 
 	UI_FunctionalAppliances_FA.translation.sayneedmissingingredients = "Besoin d'ingrédients manquants :",
+	UI_FunctionalAppliances_sayneedmissingingredients = "Besoin d'ingrédients manquants :",
 
 	UI_FunctionalAppliances_dispense = "Distribuer",
 	UI_FunctionalAppliances_refillsodabottlewith = "Remplir la bouteille de soda avec",
@@ -127,4 +128,23 @@ UI_FR = {
 	UI_FunctionalAppliances_whitemug = "Tasse blanche",
 	UI_FunctionalAppliances_spiffomug = "Tasse Spiffo",
 	UI_FunctionalAppliances_needscupormug = "A besoin d'un gobelet ou d'une tasse",
+
+	UI_FunctionalAppliances_dryself = "Se sécher",
+	UI_FunctionalAppliances_washself = "Se mouiller",
+	UI_FunctionalAppliances_turngeneratoron = "Allumer le générateur",
+	UI_FunctionalAppliances_turngeneratoroff = "Éteindre le générateur",
+	UI_FunctionalAppliances_status = "Statut",
+	UI_FunctionalAppliances_autostartactivated = "Démarrage automatique : activé",
+	UI_FunctionalAppliances_autostartdeactivated = "Démarrage automatique : désactivé",
+	UI_FunctionalAppliances_activateautostart = "Activer le démarrage automatique",
+	UI_FunctionalAppliances_deactivateautostart = "Désactiver le démarrage automatique",
+	UI_FunctionalAppliances_powerconsumption = "Consommation d'énergie",
+	UI_FunctionalAppliances_addfuel = "Ajouter du carburant",
+	UI_FunctionalAppliances_takefuel = "Prendre du carburant",
+	UI_FunctionalAppliances_fixgenerator = "Réparer le générateur",
+	UI_FunctionalAppliances_takegeneratormagazine = "Prendre le magazine du générateur",
+	UI_FunctionalAppliances_sayneedemptyfuelcan = "J'aurai besoin d'un bidon d'essence vide.",
+	UI_FunctionalAppliances_sayneedcanoffuel = "j'aurai besoin d'un bidon d'essence.",
+	UI_FunctionalAppliances_sayneedscrap = "J'aurai besoin de ferraille électronique ou de ferraille pour réparer ce générateur.",
+	UI_FunctionalAppliances_sayneedturngeneratoroff = "Je devrai d'abord éteindre le générateur.",
 }
