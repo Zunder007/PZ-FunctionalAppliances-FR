@@ -131,4 +131,7 @@ ItemName_FR = {
 
 	ItemName_FunctionalAppliances.FAPaperTowel = "Essuie-tout",
 	ItemName_FunctionalAppliances.FAPaperTowelWet = "Essuie-tout humide",
+
+	ItemName_FunctionalAppliances.FAPaperNapkins = "Serviettes en papier",
+	ItemName_FunctionalAppliances.FAPaperNapkinsWet = "Serviettes en papier mouillées",
 }
